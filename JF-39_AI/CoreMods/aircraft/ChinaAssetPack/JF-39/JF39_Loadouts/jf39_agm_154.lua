@@ -252,7 +252,7 @@ GB6 =
 
     launcher =
     {
-        cluster = cluster_desc("Bomb_Other", wsType_Bomb_Cluster,
+        cluster = cluster_desc("Bomb_Other", wsType_Bomb_Cluster, levParam),
         {
             scheme = 
             {
@@ -559,7 +559,7 @@ GB6_TSP =
     
     launcher =
     {
-        cluster = cluster_desc("Bomb_Other", wsType_Bomb_Cluster,
+        cluster = cluster_desc("Bomb_Other", wsType_Bomb_Cluster, levParam),
         {
             scheme = 
             {
